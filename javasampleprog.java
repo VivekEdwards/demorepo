@@ -1,5 +1,5 @@
 import java.io.*;
-class prog
+class javasampleprog
 {
 	public static void main(String arg[])
 	{
