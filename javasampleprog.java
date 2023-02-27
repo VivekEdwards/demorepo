@@ -1,7 +1,7 @@
 import java.io.*;
 class prog
 {
-	public static void main(String args[])throws exception
+	public static void main(String arg[])
 	{
 		System.out.println("Hello World");
 	}
