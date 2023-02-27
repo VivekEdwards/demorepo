@@ -1,4 +1,4 @@
-import java.io.*
+import java.io.*;
 class prog
 {
 	public static void main(String args[])throws exceptions
