@@ -1,7 +1,1 @@
-# Again I login git hub
-# made some changes
-# Modifieded data and push back to GitHub.
-# demorepo
-# This file modified in windows OS and push back to GitHub.
-## Learning GIT again.
-
+# file replacing with another readme file
