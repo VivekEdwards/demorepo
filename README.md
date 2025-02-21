@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Copyright 2018 Google LLC
 #
@@ -119,3 +120,7 @@ availableSecrets:
 # [END cloudbuild-trigger-cd]
 options:
   logging: CLOUD_LOGGING_ONLY
+=======
+# file replacing with another readme file
+# I just replace file in graphically not with commands
+>>>>>>> e40304ea72f1f2f69ae68c60a25cd5bd66020abb
