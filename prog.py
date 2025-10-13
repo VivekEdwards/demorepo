@@ -1,4 +1,4 @@
 a = 20
 b = 20
 c = a+b
-print('Sum is:' c)
+print('Sum is:', c)
